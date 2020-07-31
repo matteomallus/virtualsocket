@@ -7,5 +7,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
+EXPOSE 80
 ENTRYPOINT ["python"]
 CMD ["server.py"]
+
