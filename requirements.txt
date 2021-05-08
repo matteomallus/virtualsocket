@@ -1,5 +1,5 @@
 python-socketio==4.6.0
-eventlet==0.25.2
+eventlet==0.31.0
 requests==2.24.0
 pywemo==0.4.43  # https://github.com/pavoni/pywemo
 # pyngrok==4.1.8  # https://pyngrok.readthedocs.io/en/latest/
